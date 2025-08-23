@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: The Great Erg
+"description:":
+permalink:
+draft: false
+Date: 2025-08-23
 ---
+# Welcome to the Great Erg
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
